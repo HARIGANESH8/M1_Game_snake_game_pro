@@ -1,16 +1,28 @@
-1.Identify feature:Online access, Search function using (playstore,ios,chrome) ,Flexibility.
+1.IDENTIFY FEATURE
 
-2.State of art: A snake game pro is a software application that uses in both Mobile applications(Android, Ios), pc. It use to store the database of the user of whom signed the game. Users can sign in using Gmail, facebook.
+Online access, Search function using (playstore,ios,chrome) ,Flexibility.
 
-3.4 W and 1 H:Mobile flash games(Android,Ios), Pc flash games, easy access to applications, security.
+2.STATE OF ART
 
-4.SWOT analysis:Strength is it can be accessible to mobile and pc with basic minimum requirments, with or without  internet connection it can be played. Weakness is it cannot be palyed on high resolution graphics.
+A snake game pro is a software application that uses in both Mobile applications(Android, Ios), pc. It use to store the database of the user of whom signed the game. Users can sign in using Gmail, facebook.
 
-5.Derive High level Requriments:It can be accessed up to updated RAM.
+3.4 W and 1 H
 
-6.Derive Low level Requriments:It can access in basic mobile model. 
+Mobile flash games(Android,Ios), Pc flash games, easy access to applications, security.
 
-Functional Requirements:
+4.SWOT ANALYSIS
+
+Strength is it can be accessible to mobile and pc with basic minimum requirments, with or without  internet connection it can be played. Weakness is it cannot be palyed on high resolution graphics.
+
+5.HIGH LEVEL REQUIREMENTS
+
+It can be accessed up to updated RAM.
+
+6.LOW LEVEL REQUIREMENTS
+
+It can access in basic mobile model. 
+
+FUNCTIONAL REQUIREMENTS
 
 WASD keys for W-Up, A-Left, S-Down, D-Right change the snake's direction.
 The sake has a velocity in the direction it is moving. That velocity increases with time. (Provide function of time for detailed requirement.)
@@ -24,7 +36,7 @@ At the end of rounds, the score is registered as the player’s highest if it is
 Log in to identify the player. (Details should include username/password requirements, is two-factor auth needed, should obscene words be allowed as usernames? etc..?)
 Options menu to set music and sound effects volumes. Color scheme?
 
-Non-Functional Requirements:
+NON-FUNCTIONAL REQUIREMENTS
 
 On cutting-edge computers, as of 2010, it should get a 40 FPS refresh rate.
 The leaderboard needs to support 9 million concurrent users.
