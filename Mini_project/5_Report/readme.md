@@ -86,18 +86,14 @@ This is the idea. For real game development documentation, you would also want s
 
 A good game design document is more than requirements. But, the requirements are a major part of it. Functional requirements are about what it should do. Non-Functional requirements are about how well it should perform on which platforms.
 
-
 ## BEHAVIORAL DIAGRAM 1
 ![Behavioral diagram 1](https://user-images.githubusercontent.com/94282195/143449513-fa587d41-7679-44ec-8582-82baf46b6f4e.png)
-
 
 ## BEHAVIROL DIAGRAM 2
 ![Behavioral diagram 2](https://user-images.githubusercontent.com/94282195/143449613-dc0a0cca-cd1a-4405-ae2f-8e640837a8db.png)
 
-
 ## STRUCTURAL DIAGRAM 1
 ![Structural diagram 1](https://user-images.githubusercontent.com/94282195/143449730-3251c2b5-688f-43af-9517-b45475804048.jpg)
-
 
 ## STRUCTURAL DIAGRAM 2
 ![structural diagram2](https://user-images.githubusercontent.com/94282195/143449824-1fd57620-6e32-4a83-bd7b-2c0ec85ff6e7.png)
