@@ -110,7 +110,3 @@ A good game design document is more than requirements. But, the requirements are
 |------|------|------|------|------|
 | TID 1 |Fruit will generate automatically within the boundaries | SUCCESS | SUCCESS | PASS 
 | TID 2 |Whenever the snake will touch the boundary the game is over | SUCCESS | SUCCESS |  PASS
-
-
-
-
