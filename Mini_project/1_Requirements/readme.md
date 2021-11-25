@@ -8,7 +8,25 @@ A snake game pro is a software application that uses in both Mobile applications
 
 ## 3.4 W and 1 H
 
-Mobile flash games(Android,Ios), Pc flash games, easy access to applications, security.
+## WHEN
+
+One can play his game whenever he/she is free and want some refreshment but also they want to do some productive work.
+
+## WHO
+
+Every person with electronic devices need games nowdays for refreshment and relaxing.So,anyone can play this game.
+
+## WHAT
+
+A game which can be used to check or enhance our general knowledge.
+
+## WHERE
+
+It can be played by everyone and everywhere irrespective of their age.
+
+## HOW
+
+One can simply enter his name and start playing.
 
 ## 4.SWOT ANALYSIS
 
