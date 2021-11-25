@@ -30,15 +30,38 @@ One can simply enter his name and start playing.
 
 ## 4.SWOT ANALYSIS
 
-Strength is it can be accessible to mobile and pc with basic minimum requirments, with or without  internet connection it can be played. Weakness is it cannot be palyed on high resolution graphics.
+## Strength 
+
+1.it can be accessible to mobile and pc with basic minimum requirments.
+2.with or without  internet connection it can be played. 
+
+## Weakness  
+
+it cannot be palyed on high resolution graphics.
 
 ## 5.HIGH LEVEL REQUIREMENTS
 
-It can be accessed up to updated RAM.
+1.Create a board.
+
+2.Create a snake.
+
+3.Moving the snake.
+
+4.Create a target(Food).
+
+5.Create a records of players.
 
 ## 6.LOW LEVEL REQUIREMENTS
 
-It can access in basic mobile model. 
+1.Create borders.
+
+2.Create coordinates for snake body.
+
+3.Create multiple coordinates.
+
+4.Right, left, up&down moves.
+
+5.Generate scores of players.
 
 ## FUNCTIONAL REQUIREMENTS
 
